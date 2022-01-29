@@ -6,4 +6,4 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Gilberto-Rocha/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
    
 1. Componentes, Layouts e UI_UX Em Apps Android
-   - [release/componentes-layouts-ui-ux-em-apps-android]([https://github.com/Gilberto-Rocha/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+   - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/Gilberto-Rocha/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
