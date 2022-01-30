@@ -13,5 +13,5 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Gilberto-Rocha/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 1. Explorando o Firebase Para Apps Android Resilientes
     - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Gilberto-Rocha/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
-=======
->>>>>>> 5e04975c30fb08828a787f9897744a374e302e9a
+1. Finalizando projeto do App.
+
